@@ -4,6 +4,12 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/TinoGuo/r_crypto)
 ![GitHub language count](https://img.shields.io/github/languages/count/TinoGuo/r_crypto.svg)
 
+# desc
+
+Forked from https://github.com/TinoGuo/r_crypto, upgraded the Gradle (8.3) and Kotlin (2.0.0) versions.
+
+Copied the pre-generated libcrypto.so from the r_crypto project on pub.dev to the corresponding directory under android/src/main/jniLibs.
+
 # r_crypto
 
 Rust backend support crypto flutter library, much faster than Dart-implementation library, light-weight library.
